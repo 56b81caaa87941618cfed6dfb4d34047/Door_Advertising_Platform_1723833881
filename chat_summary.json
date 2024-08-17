@@ -18,5 +18,11 @@
         "content": "Alright, I'm updating \"About Us\" to \"About You\".",
         "timestamp": "17082024173737",
         "message_id": "guest17082024173736"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable 'Meet the Team' section with photos and bios\", \"checked\": true}, {\"feature\": \"Testimonials carousel from clients\", \"checked\": true}, {\"feature\": \"Interactive company timeline showcasing milestones\", \"checked\": false}, {\"feature\": \"Personalized contact form with various options\", \"checked\": true}, {\"feature\": \"FAQ section for common queries about your services\", \"checked\": false}, {\"feature\": \"Live chat support for immediate assistance\", \"checked\": true}], \"input_token_count\": 210, \"output_token_count\": 116, \"time_taken\": \"0:00:02.294397\"}",
+        "timestamp": "17082024173739",
+        "message_id": "guest17082024173736"
     }
 ]
