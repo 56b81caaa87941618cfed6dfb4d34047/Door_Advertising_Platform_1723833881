@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm updating \"About Us\" to \"About You\".",
+        "message_id": "guest17082024173736",
+        "timestamp": "17082024173737",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change about us to about you",
         "message_id": "guest17082024173736",
