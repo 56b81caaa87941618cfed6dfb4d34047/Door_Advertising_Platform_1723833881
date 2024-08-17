@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to change only the title 'About Us' to 'About You', or do you intend to revise the content within that section as well?\", \"option1\": \"Just the title change\", \"option2\": \"Change both the title and the content\"}, {\"question 2\": \"Would you like to keep the current style and formatting of the text, or are you looking to update the style or format along with the title change?\", \"option1\": \"Keep current style and formatting\", \"option2\": \"Update style/format as well\"}], \"input_token_count\": 256, \"output_token_count\": 126, \"time_taken\": \"0:00:02.503840\"}",
+        "message_id": "guest17082024173736",
+        "timestamp": "17082024173740",
+        "component_file_name": "dark_footer_component_1723833882",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable 'Meet the Team' section with photos and bios\", \"checked\": true}, {\"feature\": \"Testimonials carousel from clients\", \"checked\": true}, {\"feature\": \"Interactive company timeline showcasing milestones\", \"checked\": false}, {\"feature\": \"Personalized contact form with various options\", \"checked\": true}, {\"feature\": \"FAQ section for common queries about your services\", \"checked\": false}, {\"feature\": \"Live chat support for immediate assistance\", \"checked\": true}], \"input_token_count\": 210, \"output_token_count\": 116, \"time_taken\": \"0:00:02.294397\"}",
         "message_id": "guest17082024173736",
