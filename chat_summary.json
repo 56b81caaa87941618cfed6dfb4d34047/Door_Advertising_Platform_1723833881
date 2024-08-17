@@ -12,5 +12,11 @@
         "content": "Change about us to about you",
         "timestamp": "17082024173737",
         "message_id": "guest17082024173736"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm updating \"About Us\" to \"About You\".",
+        "timestamp": "17082024173737",
+        "message_id": "guest17082024173736"
     }
 ]
